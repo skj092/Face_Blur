@@ -9,3 +9,4 @@ This project will be useful in blurring the faces of the people in the video.
 ### Output Image
 ![face_blur](https://user-images.githubusercontent.com/43055935/169743958-fb58de05-35bd-47b0-a4cc-c5d092f69678.jpg)
 
+[about](https://drive.google.com/file/d/1ymISu7V5tP7XLEoEhFdnSFyk47K1XA_4/view)
