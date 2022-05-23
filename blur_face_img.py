@@ -16,6 +16,7 @@ def make_face_blur(img,faces_coord):
 
 
 make_face_blur(img,faces)
+cv2.imwrite('images/face_blur.jpg',img)
 cv2.imshow('Face Blur',img)
 cv2.waitKey(0)
 cv2.waitKey(0)
