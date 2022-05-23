@@ -3,14 +3,20 @@
 With computer vision, We can automatically detect the face region of the person and use it to blur the image.
 This project will be useful in blurring the faces of the people in the video.
 
-### Input Image
+### 1. Image
+> blur_face_img.py
+
+**Image Input**
+
 ![face](https://user-images.githubusercontent.com/43055935/169743528-6b3c0d96-e3f2-44df-8330-4f39387d1a39.jpg)
 
-### Output Image
+**Output Image**
+
 ![face_blur](https://user-images.githubusercontent.com/43055935/169743958-fb58de05-35bd-47b0-a4cc-c5d092f69678.jpg)
 
-## Output Video
-<img width="483" alt="Capture" src="https://user-images.githubusercontent.com/43055935/169802598-c5fa3331-ed19-4e37-b794-53a9e73f23b8.PNG">
+### 2. Video
+> blur_face_video.py
 
+<img width="483" alt="Capture" src="https://user-images.githubusercontent.com/43055935/169802598-c5fa3331-ed19-4e37-b794-53a9e73f23b8.PNG">
 
 [about](https://drive.google.com/file/d/1ymISu7V5tP7XLEoEhFdnSFyk47K1XA_4/view)
