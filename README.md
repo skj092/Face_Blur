@@ -4,17 +4,12 @@ With computer vision, We can automatically detect the face region of the person 
 This project will be useful in blurring the faces of the people in the video.
 
 
-### 1. Demo Image
-
-**Image Input**
+### 1. Image
 
 ![face](https://user-images.githubusercontent.com/43055935/169743528-6b3c0d96-e3f2-44df-8330-4f39387d1a39.jpg)
-
-**Output Image**
-
 ![face_blur](https://user-images.githubusercontent.com/43055935/169743958-fb58de05-35bd-47b0-a4cc-c5d092f69678.jpg)
 
-### 2. Demo Video
+### 2. Video
 
 <img width="483" alt="Capture" src="https://user-images.githubusercontent.com/43055935/169802598-c5fa3331-ed19-4e37-b794-53a9e73f23b8.PNG">
 
