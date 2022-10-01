@@ -14,3 +14,9 @@ This project will be useful in blurring the faces of the people in the video.
 <img width="483" alt="Capture" src="https://user-images.githubusercontent.com/43055935/169802598-c5fa3331-ed19-4e37-b794-53a9e73f23b8.PNG">
 
 [about](https://drive.google.com/file/d/1ymISu7V5tP7XLEoEhFdnSFyk47K1XA_4/view)
+
+
+
+# If you are using docker 
+sudo docker build -f Dockerfile -t dockerlearn .
+sudo docker run -ti dockerlearn /bin/bash
