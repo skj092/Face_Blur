@@ -19,4 +19,5 @@ This project will be useful in blurring the faces of the people in the video.
 
 # If you are using docker 
 sudo docker build -f Dockerfile -t dockerlearn .
+
 sudo docker run -ti dockerlearn /bin/bash
